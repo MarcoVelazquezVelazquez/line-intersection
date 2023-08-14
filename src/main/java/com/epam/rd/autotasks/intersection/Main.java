@@ -15,6 +15,8 @@ public class Main {
 
         System.out.println("result is " + line1.intersection(line2));
 
+
+
     }
 
 }
